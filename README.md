@@ -14,7 +14,7 @@
 
 ## 1. Contexto e Problema
 
-O setor de Customer Success da empresa lidava com um alto volume de processos críticos para a satisfação do cliente e para a saúde financeira da operação. Processos como gestão de garantias, trocas, devoluções, cancelamentos e controle de peças defeituosas eram gerenciados de forma descentralizada, utilizando planilhas, e-mails e comunicação informal.
+O setor de Customer Success da empresa lidava com um alto volume de processos críticos para a satisfação do cliente e para a saúde financeira da operação. Processos como gestão de garantias, trocas, devoluções, cancelamentos e controle de peças defeituosas eram gerenciados de forma descentralizada, utilizando planilhas e comunicação informal.
 
 Essa abordagem resultava em:
 - **Falta de visibilidade:** Era difícil rastrear o status de uma solicitação em tempo real.
