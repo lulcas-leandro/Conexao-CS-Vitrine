@@ -243,6 +243,7 @@ Sistema robusto de controle de acesso.
 |-------|------------|
 | `super_admin` | Acesso total ao sistema |
 | `admin_CS` | Gestão completa do CS |
+| `Atendimentos` | Registros de processos do CS |
 | `Conferente` | Conferência de registros |
 | `Financeiro` | Aprovação de pagamentos e vales |
 | `Vendedor` | Solicitação de uso de vales |
